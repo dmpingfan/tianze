@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Driver - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Driver.res" /d "_DEBUG" "E:\code\mfc\tianze\chapter7_2\Driver\Driver.rc"" 
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP7B0.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Driver.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"E:\code\mfc\tianze\chapter7_2\Driver\Driver.cpp"
+"E:\code\mfc\tianze\chapter7_2\Driver\DriverDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP7B0.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Driver.pdb" /debug /machine:I386 /out:"Debug/Driver.exe" /pdbtype:sept  .\Debug\Driver.obj .\Debug\DriverDlg.obj .\Debug\StdAfx.obj .\Debug\Driver.res "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+DriverDlg.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+Driver.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Driver.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

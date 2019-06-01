@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Form - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP552.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Form.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\code\mfc\tianze\chapter3_1\Form\XButton.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP552.tmp" 
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP553.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Form.pdb" /debug /machine:I386 /out:"Debug/Form.exe" /pdbtype:sept 
+.\Debug\Form.obj
+.\Debug\FormDoc.obj
+.\Debug\FormerView.obj
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\Form.res
+.\Debug\XButton.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP553.tmp"
+<h3>Output Window</h3>
+Compiling...
+XButton.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Form.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

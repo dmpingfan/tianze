@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ScreenSaver - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/ScreenSaver.res" /d "_DEBUG" "E:\code\mfc\tianze\chapter7_4\ScreenSaver2\ScreenSaver.rc"" 
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3BD.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/ScreenSaver.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\code\mfc\tianze\chapter7_4\ScreenSaver2\ScreenSaver.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3BD.tmp" 
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3BE.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/ScreenSaver.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\code\mfc\tianze\chapter7_4\ScreenSaver2\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3BE.tmp" 
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3C7.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib scrnsave.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/ScreenSaver.pdb" /debug /machine:I386 /def:".\ScreenSaver.def" /out:"Debug/ScreenSaver.scr" /pdbtype:sept 
+.\Debug\ScreenSaver.obj
+.\Debug\StdAfx.obj
+.\Debug\ScreenSaver.res
+]
+Creating command line "link.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3C7.tmp"
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3CD.bat" with contents
+[
+@echo off
+copy .\Debug\ScreenSaver.scr C:\Windows\System32\ScreenSaver.scr
+]
+Creating command line "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP3CD.bat"
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ScreenSaver.cpp
+Linking...
+   Creating library Debug/ScreenSaver.lib and object Debug/ScreenSaver.exp
+<h3>Output Window</h3>
+Copying the screen saver to windows system directory
+已复制         1 个文件。
+
+
+
+<h3>Results</h3>
+ScreenSaver.scr - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

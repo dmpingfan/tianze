@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ELIS - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/ELIS.res" /d "_DEBUG" /d "_AFXDLL" "E:\code\mfc\tianze\chapter7_5\ELIS\ELIS.rc"" 
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP535.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/ELIS.pdb" /debug /machine:I386 /out:"Debug/ELIS.exe" /pdbtype:sept 
+.\Debug\ELIS.obj
+.\Debug\ELISDoc.obj
+.\Debug\ELISSet.obj
+.\Debug\ELISView.obj
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\ELIS.res
+]
+Creating command line "link.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP535.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+ELIS.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

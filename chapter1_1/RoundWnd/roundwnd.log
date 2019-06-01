@@ -1,0 +1,34 @@
+//本日志文件由 "Tabbar Add-in(1.16.2517) For Visual C++ 6.0" 创建
+//项目文件:E:\codes\mfc\tianze\chapter1_1\RoundWnd\RoundWnd.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 4
+
+[Build00000001]
+sStartTime = 2010-03-27 09:45:39
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-27 09:45:40
+
+[Build00000002]
+sStartTime = 2010-03-27 09:45:55
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-27 09:45:55
+
+[Build00000003]
+sStartTime = 2010-03-27 09:46:28
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-27 09:46:28
+
+[Build00000004]
+sStartTime = 2010-03-27 09:46:40
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-03-27 09:46:41

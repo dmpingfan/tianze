@@ -1,0 +1,5 @@
+
+DESCRIPTION 'A screen saver that don't save screen !'
+EXPORTS
+    ScreenSaverProc
+    ScreenSaverConfigureDialog

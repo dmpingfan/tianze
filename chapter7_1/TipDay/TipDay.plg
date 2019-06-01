@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TipDay - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP15E.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/TipDay.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"E:\codes\mfc\tianze\chapter7_1\TipDay\TipDay.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP15E.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP15F.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/TipDay.pdb" /debug /machine:I386 /out:"Debug/TipDay.exe" /pdbtype:sept 
+.\Debug\TipDay.obj
+.\Debug\StdAfx.obj
+.\Debug\MainFrm.obj
+.\Debug\ChildFrm.obj
+.\Debug\TipDayDoc.obj
+.\Debug\TipDayView.obj
+.\Debug\TipDay.res
+.\Debug\TipDlg.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP15F.tmp"
+<h3>Output Window</h3>
+Compiling...
+TipDay.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+TipDay.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

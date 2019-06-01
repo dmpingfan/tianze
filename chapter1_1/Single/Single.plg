@@ -1,0 +1,57 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Single - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Single.res" /d "_DEBUG" /d "_AFXDLL" "E:\codes\mfc\tianze\chapter1_1\Single\Single.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP1B8.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Single.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\codes\mfc\tianze\chapter1_1\Single\ChildFrm.cpp"
+"E:\codes\mfc\tianze\chapter1_1\Single\MainFrm.cpp"
+"E:\codes\mfc\tianze\chapter1_1\Single\Single.cpp"
+"E:\codes\mfc\tianze\chapter1_1\Single\SingleDoc.cpp"
+"E:\codes\mfc\tianze\chapter1_1\Single\SingleView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP1B8.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP1B9.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Single.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\codes\mfc\tianze\chapter1_1\Single\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP1B9.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP1BA.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Single.pdb" /debug /machine:I386 /out:"Debug/Single.exe" /pdbtype:sept 
+.\Debug\ChildFrm.obj
+.\Debug\MainFrm.obj
+.\Debug\Single.obj
+.\Debug\SingleDoc.obj
+.\Debug\SingleView.obj
+.\Debug\StdAfx.obj
+.\Debug\Single.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP1BA.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ChildFrm.cpp
+MainFrm.cpp
+Single.cpp
+SingleDoc.cpp
+SingleView.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+Single.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

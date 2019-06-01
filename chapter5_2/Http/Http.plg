@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Http - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP8F.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Http.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\codes\mfc\tianze\chapter5_2\Http\HttpDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP8F.tmp" 
+Creating command line "link.exe ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Http.pdb" /debug /machine:I386 /out:"Debug/Http.exe" /pdbtype:sept  .\Debug\Http.obj .\Debug\HttpDlg.obj .\Debug\StdAfx.obj .\Debug\Http.res "
+<h3>Output Window</h3>
+Compiling...
+HttpDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Http.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

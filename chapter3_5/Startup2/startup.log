@@ -1,0 +1,20 @@
+//本日志文件由 "Tabbar Add-in(1.16.2517) For Visual C++ 6.0" 创建
+//项目文件:E:\codes\mfc\tianze\chapter3_5\Startup2\Startup.dsp
+//如果文件增长的很大请删除除本节之外的其他信息
+
+[MAIN]
+nBuildNumber = 2
+
+[Build00000001]
+sStartTime = 2010-04-04 18:56:52
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-04-04 18:56:53
+
+[Build00000002]
+sStartTime = 2010-04-04 18:57:29
+sCompileUser = Administrator
+nErrors = 0
+nWarns = 0
+sEndTime = 2010-04-04 18:57:29

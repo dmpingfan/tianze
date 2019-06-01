@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Drop - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\yh\LOCALS~1\Temp\RSP578.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Drop.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\code\mfc\tianze\chapter5_4\Drop\Drop.cpp"
+"E:\code\mfc\tianze\chapter5_4\Drop\DropDlg.cpp"
+"E:\code\mfc\tianze\chapter5_4\Drop\DropEdit.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\yh\LOCALS~1\Temp\RSP578.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Drop.pdb" /debug /machine:I386 /out:"Debug/Drop.exe" /pdbtype:sept  .\Debug\Drop.obj .\Debug\DropDlg.obj .\Debug\StdAfx.obj .\Debug\Drop.res .\Debug\DropEdit.obj "
+<h3>Output Window</h3>
+Compiling...
+Drop.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+DropDlg.cpp
+DropEdit.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Drop.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

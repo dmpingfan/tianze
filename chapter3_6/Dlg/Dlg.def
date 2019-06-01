@@ -1,0 +1,7 @@
+; Dlg.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Dlg"
+DESCRIPTION  'Dlg Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
